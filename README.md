@@ -1,14 +1,4 @@
-"""
-Brainfuck interpreter
 
-About Brainfuck esoteric programming language:
-https://en.wikipedia.org/wiki/Brainfuck
-
-This is an implementation of Brainfuck in Python. Running Brainfuck code is a simple as calling brainfuck function.
-
-"""
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Brainfuck">
